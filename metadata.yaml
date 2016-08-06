@@ -1,0 +1,29 @@
+_repo: Algonquin-Indian-Tales_10891
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Young, Egerton Ryerson
+    birthdate: 1840
+    deathdate: 1909
+    gutenberg_agent_id: '9793'
+    url: http://www.gutenberg.org/2009/agents/9793
+description: Cover -- Contents.
+gutenberg_bookshelf:
+- Native America
+- Folklore
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10891'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Folklore'
+- !lcsh 'Algonquian Indians -- Fiction'
+- !lcsh 'Tales -- North America'
+- !lcc 'E011'
+- GITenberg
+title: Algonquin Indian Tales
+url: http://www.gutenberg.org/ebooks/10891
